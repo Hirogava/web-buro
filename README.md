@@ -9,12 +9,13 @@ travel_guide_template/
 ├── index.html          # Главная страница
 ├── about.html          # Страница "О месте"
 ├── gallery.html        # Галерея фотографий
+├── festivals.html      # Фестивали и события
 ├── contact.html        # Контакты и форма
 ├── css/
 │   ├── style.css       # Основные стили
 │   └── pages.css       # Стили для отдельных страниц
 ├── images/             # Папка для фотографий
-└── README.md           # Этот файл
+└── README.md           # Описание проекта
 ```
 
 ## Что нужно сделать
