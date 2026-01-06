@@ -63,7 +63,7 @@ button {
 }
 
 button:hover {
-  background-color: #0077aa;
+  background-color: #ffffff;
 }
 
 footer {
@@ -96,6 +96,7 @@ footer {
 .video-box {
   display: flex;
   justify-content: center;  /* ВИДЕО ПО ЦЕНТРУ */
+  border: #ff0000;
 }
 
 /* Само видео */
