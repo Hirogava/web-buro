@@ -1,12 +1,12 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #ff0000;
   color: #333;
 }
 
 header {
-  background-color: #0099cc;
+  background-color: #cc0000;
   color: white;
   text-align: center;
   padding: 20px;
@@ -31,7 +31,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #00ccff;
+  color: rgb(204, 0, 0);
 }
 
 main {
@@ -46,7 +46,7 @@ main {
 }
 
 .card {
-  background-color: white;
+  background-color: rgb(204, 0, 0);
   width: 250px;
   padding: 15px;
   border-radius: 10px;
@@ -54,14 +54,14 @@ main {
 
 button {
   padding: 10px;
-  background-color: #0099cc;
+  background-color: #cc0000;
   color: white;
   border: none;
   border-radius: 5px;
 }
 
 button:hover {
-  background-color: #0077aa;
+  background-color: #ffffff;
 }
 
 footer {
@@ -94,6 +94,7 @@ footer {
 .video-box {
   display: flex;
   justify-content: center;  /* ВИДЕО ПО ЦЕНТРУ */
+  border: #ff0000;
 }
 
 /* Само видео */
@@ -103,4 +104,14 @@ footer {
   border-radius: 12px;
   border: none;
 }
-
+h1,h2,h3,li, p{
+  color: #ffffff;
+}
+.text{
+  color: rgb(0, 0, 0);
+}
+.pps{
+  display: flex;
+  justify-content: center;
+  color: #ff0000;
+}
